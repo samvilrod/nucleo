@@ -58,7 +58,7 @@ a:active {
 --*/
 header {
   background: #fff;
-  padding: 20px 0;
+  padding: 50px 0;
 }
 header .navbar {
   margin-bottom: 0px;
@@ -252,6 +252,8 @@ font header .navbar-default .navbar-nav li a:hover {
 #feature p {
   color: #8d8f92;
   margin-bottom: 20px;
+  background-color: #655E7A;
+  border-radius: 4px;
 }
 #feature .btn-view-works {
   background: #655E7A;
